@@ -23,7 +23,7 @@
   .ql-container {
     /* background-color: rgb(207, 207, 226) !important; */
     /* border-radius: 10px !important; */
-    height: 100px;
+    height: 280px;
   }
   
   /* .ql-snow{
@@ -81,7 +81,7 @@
     border: 20px solid #CACACA;
     border-radius: 5px;
     line-height: 25px;
-    height: 35px;
+    height: 350px;
     width: 300px;
     outline: none;
 }
